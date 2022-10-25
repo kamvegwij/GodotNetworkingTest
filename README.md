@@ -1,5 +1,3 @@
-# GodotNetworkingTest
-
 # Purpose
 To learn and understand Godot Networking, HTTPRequest and calling an API in a godot game and manipulating it's data
 
